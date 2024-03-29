@@ -1,7 +1,7 @@
 
-# Vigenère cipher + AWS e-mail integration
+# Vigenère cipher + e-mail integration
 
-A project that uses the Vigenère cipher to encrypt a message and AWS integration to send the encrypted text to a designated email. The AWS part is under development/study for implementation.
+A project that uses the Vigenère cipher to encrypt a message and e-mail integration to send the encrypted text to a designated email. The e-mail part is under development/study for implementation.
 
 This is a simple project where I expect to learn new things and build a functional service. Feel free to use/modify the code. :)
 
